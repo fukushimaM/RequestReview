@@ -1,4 +1,4 @@
-# Request Permission
+# Request Review
 This plugin presents the rate or review dialog for iOS.
 
 This is a plugin for Unreal Engine 4.
